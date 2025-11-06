@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93618777103",
+    "project_id": "basket-a4acd",
+    "storage_bucket": "basket-a4acd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93618777103:android:feee80d69ad505bcd8c77a",
+        "android_client_info": {
+          "package_name": "com.zybooks.basket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJnGHlYidqMtDyrkKfI8aPBU48wdOYaEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
